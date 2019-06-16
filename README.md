@@ -1,1 +1,1 @@
-# Simple-linear-regression-in-java
+# Simple-linear-regression-implementation-in-java
